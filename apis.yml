@@ -1,7 +1,11 @@
 aid: fox
-url: https://raw.githubusercontent.com/api-evangelist/fox/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/fox/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.fox.com
+description: >-
+  Everything FOX in one place. A single destination to stream live sports, news and
+  on-demand entertainment – made for how you watch.
