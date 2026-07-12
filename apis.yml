@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/fox-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/foxcorp
   - type: LinkedIn
@@ -47,6 +49,8 @@ common:
   - type: Brand
     name: Fox Television Stations
     url: https://www.foxtv.com
+  - url: https://moxie.foxnews.com/google-publisher/latest.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
